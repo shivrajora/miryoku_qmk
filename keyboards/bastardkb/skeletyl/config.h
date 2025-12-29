@@ -19,7 +19,8 @@
 #pragma once
 
 
-#define DIODE_DIRECTION ROW2COL
+// #define DIODE_DIRECTION ROW2COL
+#define DIODE_DIRECTION COL2ROW
 
 /* RGB settings. */
 #define RGBLED_NUM 36
